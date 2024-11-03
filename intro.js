@@ -8,4 +8,5 @@ function myFun()
     console.log("Inside function Block");
 }
 
+console.log("extra line")
 
